@@ -1,4 +1,4 @@
-#Information Retrieval Project on Text 
+#Text Information Retrieval Project
 BSC course project
 
 ##Project info
